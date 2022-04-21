@@ -1,29 +1,27 @@
 <html>
 <body>
-<h1>Welcome To Wissen infotech by Balaji Eka</h1>
-<h2>This is the sample Web Application created by Batch 06 </h2> 
+<h1>This is a webpage</h1>
+<h2>OUR OWN WEBPAGE </h2> 
 </body>
-<body style="color:green;">
+<body style="color:RED;">
  <div class="container">
-    <label for="uname"><b>Username:    </b></label>
-    <input type="text" placeholder="UserName" name="uname" required>
+    <label for="Uname"><b>name:    </b></label>
+    <input type="text" placeholder="name" name="Uname" required>
 <br></br>
-    <label for="psw"><b>Password:     </b></label>
-    <input type="password" placeholder="Password" name="psw" required>
+    <label for="psw"><b>Passwd:     </b></label>
+    <input type="password" placeholder="Passwd" name="passwd" required>
 <br></br>
    <button type="submit">Login</button>
-   <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-<style>
 body {background-color: Gold;}
 
 h1
 {
-  color:magenta;
+  color:green;
   text-align:center;
 }
 h2
 {
-  color:MediumBlue;
+  color:white;
   text-align:center;
 }
 
